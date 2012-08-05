@@ -1,0 +1,3 @@
+{'src/*',[load,{outdir,"ebin"}]}.
+{'test/*', [load,{outdir,"ebin"}]}.
+{'../coreMath/src/*',[load,{outdir,"../coreMath/ebin"}]}.
